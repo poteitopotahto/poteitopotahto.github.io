@@ -1,24 +1,24 @@
-body{
-font-family: 'Montserrat', sans-serif;
-margin: 0;
-text-align: center;
-line-height: 2;
-/*background-color: #FFEDD3;*/
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+  line-height: 2;
+  /*background-color: #FFEDD3;*/
 }
 
-.intro{
+.intro {
   background-color: #FF5C58;
   line-height: 1;
 }
 
-.page{
-  float:left;
+.page {
+  float: left;
   height: 100vh;
   width: 100%;
   position: relative;
 }
 
-h1{
+h1 {
   font-family: 'Syne', sans-serif;
   font-size: 10em;
   margin: auto auto;
@@ -28,7 +28,7 @@ h1{
   color: #F9F9F9;
 }
 
-h2{
+h2 {
   font-family: 'Syne', sans-serif;
   font-size: 2em;
   margin: auto auto;
@@ -36,7 +36,7 @@ h2{
   color: #F9F9F9;
 }
 
-.socials{
+.socials {
   position: fixed;
   width: 4%;
   height: 100%;
@@ -45,7 +45,7 @@ h2{
   z-index: 2;
 }
 
-h3{
+h3 {
   font-size: 5em;
   color: #FF5C58;
   font-family: 'Syne', sans-serif;
@@ -53,97 +53,100 @@ h3{
   margin-bottom: 20px;
 }
 
-p{
+p {
   width: 30%;
 }
 
-.about{
+.about {
   padding-top: 30vh;
 }
 
-.leftaln{
+.leftaln {
   text-align: left;
   padding-left: 200px;
 }
 
-.rightaln{
+.rightaln {
   text-align: right;
   margin-right: 100px;
   margin-left: auto;
 }
 
-ul{
+ul {
   list-style-type: none;
 }
 
-a:hover{
-  color:#FCD2D1;
+a:hover {
+  color: #FCD2D1;
 }
 
-a{
+a {
   color: inherit;
   text-decoration: none;
 }
 
-
-img{
+img {
   border-radius: 100%;
   float: right;
   width: 220px;
   position: absolute;
 }
 
-.studying{
-  top:13%;
-  right:20%;
+.studying {
+  top: 13%;
+  right: 20%;
 }
 
-.swimming{
-  top:33%;
-  right:20%;
+.swimming {
+  top: 33%;
+  right: 20%;
 }
 
-.reading{
-  top:65%;
-  right:20%;
+.reading {
+  top: 65%;
+  right: 20%;
 }
 
-h4{
+h4 {
   color: #FE8F8F;
   font-size: 2em;
   margin: 0;
 }
 
-.foot{
-  background-color:#FF5C58;
+.foot {
+  background-color: #FF5C58;
 }
 
-.foottext{
+.foottext {
   margin: auto;
   padding-top: 30px;
   width: 20%;
   color: #F9F9F9;
 }
 
-.contact{
+.contact {
   padding-top: 40px;
 }
 
-.handshake{
+.handshake {
   bottom: 35%;
-  left:60%;
+  left: 60%;
 }
 
-.frontend{
-  top:30%;
-  left:20%;
+.frontend {
+  top: 30%;
+  left: 20%;
 }
 
-.gamedev{
-  top:70%;
-  left:20%;
+.gamedev {
+  top: 70%;
+  left: 20%;
 }
 
-.skillimg{
-  width:280px;
+.skillimg {
+  width: 280px;
+}
+
+hr {
+  width: 60%;
 }
